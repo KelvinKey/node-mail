@@ -1,0 +1,14 @@
+{
+    "local": "shanghai/shanghai",
+    "OneUrl": "http://wufazhuce.com/",
+    "WeatherUrl": "https://tianqi.moji.com/weather/china/",
+
+    "startDay": "2015/12/5",
+
+    "EamilAuth": {
+        "user": "xxxxxxxxxxxxx.com",
+        "pass": "xxxxxxxxxxxxxxxxx"
+    },
+    "EmailTo": "xxxxxxxxxxxxxxxxxxxxx.com",
+    "EmailSubject":"一封致命小邮件"
+}
